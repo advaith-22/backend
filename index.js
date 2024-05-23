@@ -11,7 +11,7 @@ const PORT = 2248;
 
 app.use(
   cors({
-    origin: "https://client-8ub2.onrender.com",
+    origin: "https://client-odl8.onrender.com",
     credentials: true,
   }),
 );
