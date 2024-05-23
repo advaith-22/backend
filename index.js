@@ -11,7 +11,7 @@ const PORT = 2248;
 
 app.use(
   cors({
-    origin: "https://664f30931f1f3405d5a2909c--resonant-youtiao-a81df6.netlify.app",
+    origin: "https://client-8ub2.onrender.com",
     credentials: true,
   }),
 );
