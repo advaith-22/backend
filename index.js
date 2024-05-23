@@ -11,7 +11,7 @@ const PORT = 2248;
 
 app.use(
   cors({
-    origin: "https://athena-desk-frontend.vercel.app",
+    origin: "https://664f30931f1f3405d5a2909c--resonant-youtiao-a81df6.netlify.app",
     credentials: true,
   }),
 );
